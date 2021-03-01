@@ -127,7 +127,9 @@ word-spacing: 5px;
 }
 
 .kefir-description-image {
-    /* background-size: 600px; */
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
     text-align: center;
 }
 
@@ -162,11 +164,4 @@ word-spacing: 5px;
     margin-top: 10px;
 }
 
-.testimony-image {
-    background-size: 600px;
-    text-align: center;
-}
 
-.testimony-box{
-    padding: 40px;
-}

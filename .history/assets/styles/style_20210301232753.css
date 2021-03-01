@@ -162,7 +162,7 @@ word-spacing: 5px;
     margin-top: 10px;
 }
 
-.testimony-image {
+.testimony-image img{
     background-size: 600px;
     text-align: center;
 }
