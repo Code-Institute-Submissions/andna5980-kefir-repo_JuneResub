@@ -119,6 +119,7 @@ word-spacing: 5px;
 .welcome-text {
     text-align: center;
     margin: 25px, 0;
+    font-size: 280%;
     padding-top: 30px;
 }
 
@@ -134,5 +135,6 @@ word-spacing: 5px;
 .benefits-title {
     text-align: center;
     margin: 25px, 0;
-
+    font-size: 280%;
+    padding-top: 30px;
 }
