@@ -143,11 +143,9 @@ word-spacing: 5px;
     
 }
 
-.benefits-box1 {
-    background-color: #ECECDE;
-}
 .benefits-box {
-    background-color: #DCF9D7;
+    background-color: #ECECDE;
+    margin: 0.5px;
 }
 
 
