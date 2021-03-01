@@ -140,11 +140,11 @@ word-spacing: 5px;
 .benefits-row {
     padding: 40px;
     color: #2F4B58;
-    
+    background-color: #ECECDE;
 }
 
 .benefits-box {
-    background-color: #ECECDE;
+    margin: 5px;
 }
 
 
