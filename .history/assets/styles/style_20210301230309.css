@@ -126,7 +126,8 @@ word-spacing: 5px;
     padding: 40px;
 }
 
-.kefir-description-image {
+.kefir-description-image img{
+    background: url(/assets/images/milk-products-dairy.jpg)no-repeat center center;
     background-size: 600px;
     height: 100%;
     border-radius: 50%;
