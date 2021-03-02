@@ -185,7 +185,8 @@ h1, h2, h3 {
 
 .recipes-title{
     text-align: center;
-    margin: 40px, 0;
+    margin: 25px, 0;
+    padding-top: 30px;
 }
 
 
