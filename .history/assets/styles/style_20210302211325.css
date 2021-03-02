@@ -31,11 +31,11 @@ h1, h2, h3 {
 /*-----------------------Header ----------*/
 
 .navbar-brand {
-    /* float: left; */
+    float: left;
     color: #2F4B58;
     font-family:  Caveat Brush, Helvetica, sans-serif;
     font-size: 280%; 
-    margin-left: 20px;
+    margin-left: 20%;
     margin-top: 10px;
 }
 
@@ -162,7 +162,7 @@ h1, h2, h3 {
 
 .testimony-image1 {
    padding-top: 40px;
-   /* padding-left: 50px;  */
+   padding-left: 50px; 
    display: flex;
    justify-content: center;
 }
