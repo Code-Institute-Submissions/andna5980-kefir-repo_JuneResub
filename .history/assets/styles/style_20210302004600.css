@@ -203,7 +203,3 @@ footer {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
-
-.social-networks a i:hover {
-    color: black;
-}

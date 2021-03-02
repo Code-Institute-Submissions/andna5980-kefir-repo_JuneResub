@@ -190,20 +190,3 @@ footer {
     text-align: center;
     margin-right: 20px;
 }
-
-.social-networks a {
-    color: white;
-    display: inline-block;
-    
-    margin: 1px;
-    padding: 2%;  
-    
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-networks a i:hover {
-    color: black;
-}
