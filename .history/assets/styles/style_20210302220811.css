@@ -48,6 +48,7 @@ h1, h2, h3 {
 .navbar-nav li a{
     margin-top: 20px;
     color: #2F4B58;
+    align-items: flex-end;
 }
 
 
@@ -56,10 +57,10 @@ h1, h2, h3 {
     color: #2F4B58;
 } 
  
+.collapse.navbar-collapse{
 
-/* .navbar-collapse {
-    align-items: stretch;
-} */
+}
+
 
 /*-----------------------Hero-image ----------*/
 

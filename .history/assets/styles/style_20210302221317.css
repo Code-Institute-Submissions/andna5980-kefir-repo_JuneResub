@@ -56,10 +56,13 @@ h1, h2, h3 {
     color: #2F4B58;
 } 
  
+.collapse.navbar-collapse{
 
-/* .navbar-collapse {
+}
+
+.navbar-collapse {
     align-items: stretch;
-} */
+}
 
 /*-----------------------Hero-image ----------*/
 

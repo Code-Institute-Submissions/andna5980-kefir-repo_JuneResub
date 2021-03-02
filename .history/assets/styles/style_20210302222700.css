@@ -45,6 +45,10 @@ h1, h2, h3 {
     float: right;
 }
 
+.navbar-nav li { 
+    text-align: end;
+}
+
 .navbar-nav li a{
     margin-top: 20px;
     color: #2F4B58;
