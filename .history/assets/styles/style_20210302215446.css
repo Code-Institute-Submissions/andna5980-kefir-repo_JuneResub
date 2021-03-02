@@ -37,16 +37,25 @@ h1, h2, h3 {
     margin-top: 10px;
 }
 
-.navbar-light .navbar-brand {
- color: #2F4B58;
+.navbar-nav a {
+    /* float: right; */
+    color: #2F4B58;
 }
+
+.navbar-nav li a{
+    margin-top: 20px;
+    color: #2F4B58;
+}
+
 
 .navbar-toggler {
     border: 2px solid #2F4B58;
     color: #2F4B58;
 }
 
-
+.navbar-light .navbar-brand {
+    /* color: rgba(0,0,0,.9); */
+}
 
 
 /*-----------------------Hero-image ----------*/
