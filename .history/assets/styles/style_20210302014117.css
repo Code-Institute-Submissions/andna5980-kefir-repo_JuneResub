@@ -176,9 +176,10 @@ h1, h2, h3 {
 
 
 .testimony-box {
-    padding: 50px;
-    justify-content: center;
+    padding: 40px;
+    text-align: justify;
 }
+
 
 /*-----------------------footer----------*/
 
@@ -187,7 +188,7 @@ footer {
     width: 100%;
     background-color: #2F4B58;
     overflow: hidden;
-    margin-top: 20px;
+    margin-top: 10px;
 
 }
 

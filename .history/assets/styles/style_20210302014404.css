@@ -176,9 +176,10 @@ h1, h2, h3 {
 
 
 .testimony-box {
-    padding: 50px;
-    justify-content: center;
+    padding: 40px;
+    text-align: justify;
 }
+
 
 /*-----------------------footer----------*/
 

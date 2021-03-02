@@ -161,24 +161,24 @@ h1, h2, h3 {
 }
 
 .testimony-image1 {
-   padding-top: 40px;
-   padding-left: 50px; 
+   /* padding-top: 40px;
+   padding-left: 50px; */
    display: flex;
    justify-content: center;
 }
 
 .testimony-image2 {
-    padding-top: 40px;
-    padding-left: 100px; 
+    /* padding-top: 40px;
+    padding-left: 100px; */
     display: flex;
    justify-content: center;
  }
 
 
 .testimony-box {
-    padding: 50px;
-    justify-content: center;
+    padding: 40px;
 }
+
 
 /*-----------------------footer----------*/
 
@@ -187,7 +187,7 @@ footer {
     width: 100%;
     background-color: #2F4B58;
     overflow: hidden;
-    margin-top: 20px;
+    margin-top: 10px;
 
 }
 
