@@ -63,7 +63,8 @@ h1, h2, h3 {
 
 
 
- .menu a {
+
+.menu a {
     text-decoration: none;
     color: #2F4B58;
 }  
@@ -72,8 +73,8 @@ h1, h2, h3 {
 list-style-type: none;
 margin-right: 5%;
 margin-top: 30px; /* CHAPUZA  */
- word-spacing: 5px;
-} 
+word-spacing: 5px;
+}
 
 .menu ul {
     float:right; 
@@ -83,7 +84,8 @@ margin-top: 30px; /* CHAPUZA  */
 .menu li {
     list-style-type: none;
     display: inline-flex;
-} 
+}
+
 
 /*-----------------------Hero-image ----------*/
 
