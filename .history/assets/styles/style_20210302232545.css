@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat+Brush&display=swap');
+
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #2F4B58;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #2F4B58;    
     max-width: 1950px;
 }
 
 h1, h2, h3 {
-    font-family: Caveat Brush, Helvetica, sans-serif;
+    font-family:  Caveat Brush, Helvetica, sans-serif; 
     color: #2F4B58;
 }
+
 
 /*----------------------BORDER ROWS AND COLUMNS----------*/
 
@@ -17,14 +20,15 @@ h1, h2, h3 {
 }
 
 .test-blue {
-    border: 1px solid blue
+    border:1px solid blue
 }
+
 
 /*-----------------------Header ----------*/
 
 .navbar-brand {
-    font-family: Caveat Brush, Helvetica, sans-serif;
-    font-size: 280%;
+    font-family:  Caveat Brush, Helvetica, sans-serif;
+    font-size: 280%; 
     margin-left: 20px;
     margin-top: 10px;
 }
@@ -37,15 +41,21 @@ h1, h2, h3 {
     float: right;
 }
 
-.navbar-nav li a {
+.navbar-nav li a{
     margin-top: 20px;
     color: #2F4B58;
 }
 
+
 .navbar-toggler {
     border: 2px solid #2F4B58;
     color: #2F4B58;
-}
+} 
+ 
+
+/* .navbar-collapse {
+    align-items: stretch;
+} */
 
 /*-----------------------Hero-Image ----------*/
 
@@ -63,28 +73,38 @@ h1, h2, h3 {
     animation-fill-mode: forwards;
 }
 
-.cover-text h2 {
+.cover-text h2{
     color: whitesmoke;
     font-size: 140%;
     letter-spacing: 4px;
     text-align: center;
+    
+
+
     width: 200px;
     height: 75px;
+
     padding-top: 10px;
+    
     background-color: rgba(0, 0, 0, .5);
     border-radius: 30px;
+
     top: 200px;
     left: 100px;
-    position: absolute;
+
+    position: absolute; 
 }
+
+
+
 
 /*------Animation of the Hero image-------*/
 
 @keyframes hero-zoom {
-    from {
+    from{
         transform: scale(1);
     }
-    to {
+    to{
         transform: scale(1.2);
     }
 }
@@ -97,7 +117,7 @@ h1, h2, h3 {
     padding-top: 30px;
 }
 
-.kefir-description {
+.kefir-description{
     padding: 40px;
 }
 
@@ -106,24 +126,29 @@ h1, h2, h3 {
     text-align: center;
 }
 
+
 /*-----------------------Kefir-Benefits-Area----------*/
 
 .benefits-title {
     text-align: center;
     margin: 40px, 0;
+    
 }
 
 .benefits-row {
     padding: 40px;
     color: #2F4B58;
+    
 }
 
 .benefits-box1 {
     background-color: #ECECDE;
 }
 
-/*-----------------------Testimonies----------*/
 
+
+
+/*-----------------------Testimonies----------*/
 .testimonies-title {
     text-align: center;
     margin: 25px, 0;
@@ -132,27 +157,29 @@ h1, h2, h3 {
 }
 
 .testimony-image1 {
-    padding-top: 40px;
-    /* padding-left: 50px;  */
-    display: flex;
-    justify-content: center;
+   padding-top: 40px;
+   /* padding-left: 50px;  */
+   display: flex;
+   justify-content: center;
 }
 
 .testimony-image2 {
     padding-top: 40px;
     /* padding-left: 100px;  */
     display: flex;
-    justify-content: center;
-}
+   justify-content: center;
+ }
+
 
 .testimony-box {
     padding: 50px;
     justify-content: center;
 }
 
+
 /*-----------------------Recipes-Page----------*/
 
-.recipes-title {
+.recipes-title{
     text-align: center;
     margin: 40px, 0;
 }
@@ -160,8 +187,9 @@ h1, h2, h3 {
 .picture-box {
     padding-top: 5px;
     display: flex;
-    justify-content: center;
-}
+   justify-content: center;
+ }
+
 
 /*-----------------------Contact-Page----------*/
 
@@ -185,10 +213,10 @@ h1, h2, h3 {
     border-radius: 25px;
 }
 
-.contact-form>h2 {
+.contact-form > h2 {
     margin-bottom: 15px;
     font-size: xx-large;
-    color: white;
+    color: white;   
 }
 
 .text-input {
@@ -217,14 +245,20 @@ h1, h2, h3 {
     color: white;
 }
 
+
+
+
+
+
 /*-----------------------Footer----------*/
 
-footer {
+ footer {
     height: 80px;
     width: 100%;
     background-color: #2F4B58;
     overflow: hidden;
     margin-top: 20px;
+
 }
 
 .social-networks {
@@ -235,8 +269,10 @@ footer {
 .social-networks a {
     color: white;
     display: inline-block;
+    
     margin: 1px;
-    padding: 2%;
+    padding: 2%;  
+    
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -252,8 +288,8 @@ footer {
     margin: 1%;
     padding: 5%;
     color: white;
-}
+  }
 
-.social-networks span {
+  .social-networks span {
     color: white;
 }
