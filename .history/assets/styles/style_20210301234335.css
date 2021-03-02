@@ -19,13 +19,13 @@ h1, h2, h3 {
 
 /*----------------------BORDER ROWS AND COLUMNS----------*/
 
-/* .test-red {
+.test-red {
     border: 3px solid red
 }
 
 .test-blue {
     border:1px solid blue
-} */
+}
 
 
 /*-----------------------Header ----------*/
@@ -149,7 +149,9 @@ word-spacing: 5px;
 .benefits-box1 {
     background-color: #ECECDE;
 }
-
+.benefits-box {
+    background-color: #DCF9D7;
+}
 
 
 
@@ -158,12 +160,11 @@ word-spacing: 5px;
     text-align: center;
     margin: 25px, 0;
     margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .testimony-image {
     background-size: 600px;
-    /* text-align: center; */
+    text-align: center;
 }
 
 .testimony-box{

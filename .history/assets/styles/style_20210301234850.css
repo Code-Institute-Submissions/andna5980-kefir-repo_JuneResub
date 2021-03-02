@@ -149,7 +149,9 @@ word-spacing: 5px;
 .benefits-box1 {
     background-color: #ECECDE;
 }
-
+.benefits-box {
+    background-color: #DCF9D7;
+}
 
 
 
@@ -163,9 +165,9 @@ word-spacing: 5px;
 
 .testimony-image {
     background-size: 600px;
-    /* text-align: center; */
+    text-align: center;
 }
 
 .testimony-box{
-    padding: 40px;
+    /* padding: 40px; */
 }
