@@ -161,15 +161,14 @@ word-spacing: 5px;
     margin-bottom: 10px;
 }
 
-.testimony-image1 {
-   padding-top: 40px;
-   padding-left: 30px;
+.testimony-image img {
+    /* background-size: 600px; */
+    /* text-align: center; */
+   display: flex;
+   justify-content: center;
+   margin-left: 30px;
 }
 
-.testimony-image2 {
-    padding-top: 40px;
-    padding-left: 80px;
- }
 
 
 .testimony-box {

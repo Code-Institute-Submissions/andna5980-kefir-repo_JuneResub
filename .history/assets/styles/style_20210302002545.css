@@ -19,13 +19,13 @@ h1, h2, h3 {
 
 /*----------------------BORDER ROWS AND COLUMNS----------*/
 
-/* .test-red {
+.test-red {
     border: 3px solid red
 }
 
 .test-blue {
     border:1px solid blue
-} */
+}
 
 
 /*-----------------------Header ----------*/
@@ -161,15 +161,10 @@ word-spacing: 5px;
     margin-bottom: 10px;
 }
 
-.testimony-image1 {
-   padding-top: 40px;
-   padding-left: 30px;
+.testimony-image1 img {
+   padding-top: 30px;
 }
 
-.testimony-image2 {
-    padding-top: 40px;
-    padding-left: 80px;
- }
 
 
 .testimony-box {
