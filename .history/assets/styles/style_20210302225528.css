@@ -199,7 +199,7 @@ h1, h2, h3 {
 
 .form-section {
     clear: right;
-    background: url(/assets/images/milk-products-dairy-wood-table.jpg)
+    background: url(./assets/images/milk-products-dairy-wood-table.jpg);
     opacity: 0.9;
     background-size: cover;
     background-position: right;

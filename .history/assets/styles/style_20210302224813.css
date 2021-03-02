@@ -199,57 +199,12 @@ h1, h2, h3 {
 
 .form-section {
     clear: right;
-    background: url(/assets/images/milk-products-dairy-wood-table.jpg)
+    background: url(/assets/images/milk-products-dairy-wood-table.jpg);
     opacity: 0.9;
     background-size: cover;
     background-position: right;
     height: 700px;
 }
-
-.contact-form {
-    margin-top: 139px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.7);
-    max-width: 300px;
-    position: absolute;
-    left: 10%;
-    padding: 28px;
-    border-radius: 25px;
-}
-
-.contact-form > h2 {
-    margin-bottom: 15px;
-    font-size: xx-large;
-    color: white;   
-}
-
-.text-input {
-    background: white;
-    color: black;
-    width: 100%;
-    height: 30px;
-    margin: 5px 0 20px 0;
-    border: 1px solid black;
-    border-radius: 3px;
-}
-
-.button {
-    margin-top: 20px;
-    border-radius: 10px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: white;
-    color: black;
-    display: block;
-}
-
-.button:hover {
-    background-color: black;
-    color: white;
-}
-
-
 
 
 
