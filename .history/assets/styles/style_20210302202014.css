@@ -189,7 +189,7 @@ h1, h2, h3 {
 }
 
 .picture-box {
-    padding-top: 5px;
+    /* padding-top: 10px; */
     display: flex;
    justify-content: center;
    
