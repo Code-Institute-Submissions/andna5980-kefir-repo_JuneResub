@@ -35,7 +35,7 @@ h1, h2, h3 {
     color: #2F4B58;
     font-family:  Caveat Brush, Helvetica, sans-serif;
     font-size: 280%; 
-    margin-left: 20%;
+    margin-left: 10%;
     margin-top: 10px;
 }
 
@@ -61,6 +61,30 @@ h1, h2, h3 {
 */
 
 
+
+
+ .menu a {
+    text-decoration: none;
+    color: #2F4B58;
+}  
+
+.menu  {
+list-style-type: none;
+margin-right: 5%;
+margin-top: 30px; /* CHAPUZA  */
+ word-spacing: 5px;
+} 
+
+.menu ul {
+    float:right; 
+    margin-left: 10px;
+}
+
+.menu li {
+    list-style-type: none;
+    display: inline-flex;
+} 
+
 /*-----------------------Hero-image ----------*/
 
 .container-hero {
@@ -70,7 +94,7 @@ h1, h2, h3 {
 
 .hero-image {
     height: 400px;
-    width: 110%;
+    width: 100%;
     background: url(../images/milk-kefir-grains-spoon_1024x1024.jpg) no-repeat center;
     animation-name: hero-zoom;
     animation-duration: 4s;
@@ -137,12 +161,12 @@ h1, h2, h3 {
 
 .testimony-image1 {
    padding-top: 40px;
-   padding-left: 50px;
+   padding-left: 30px;
 }
 
 .testimony-image2 {
     padding-top: 40px;
-    padding-left: 100px;
+    padding-left: 80px;
  }
 
 
