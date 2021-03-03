@@ -5,7 +5,7 @@ body {
     max-width: 2000px;
 }
 
-h1,h2,h3 {
+h1, h2, h3 {
     font-family: Caveat Brush, Helvetica, sans-serif;
     color: #2F4B58;
 }
@@ -120,7 +120,7 @@ h1,h2,h3 {
 
 .benefits-title {
     text-align: center;
-    margin: 40px 0;
+    margin: 40px, 0;
 }
 
 .benefits-row {
@@ -141,7 +141,7 @@ h1,h2,h3 {
 
 .testimonies-title {
     text-align: center;
-    margin: 25px 0;
+    margin: 25px, 0;
     margin-top: 10px;
     margin-bottom: 10px;
 }
