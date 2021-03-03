@@ -34,7 +34,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
     -   Mobile Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/Mobile.pdf)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/Contactus.pdf)
+    -   Contact Us Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/contactus.pdf)
 
 ### Languages Used
 
