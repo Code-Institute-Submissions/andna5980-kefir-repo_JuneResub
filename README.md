@@ -29,6 +29,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     -   #### Imagery
         -   All the imagery we used has the main purpose of create a pleasant experience to the eye. The hero image and the cover text got the simple function of showing the minimal size of the product but the powerful properties  it also got. The animation its designed to catch user attention. The design 
         has been done to create a clean, simple and minimalistic experience to the user for an easy interaction with the site and its content.
+        
 *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/homepage.pdf)
@@ -36,6 +37,14 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     -   Mobile Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/Mobile.pdf)
 
     -   Contact Us Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/contactus.pdf)
+
+## Features
+
+-   Responsive on all device sizes
+
+-   Interactive elements
+
+## Technologies Used
 
 ### Languages Used
 
@@ -54,10 +63,19 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     - Font Awesome was used on all pages to add icons mainly the footer.
 1. [Visual Studio Code:](https://code.visualstudio.com/)
     - Visual Studio Code is the main editor used to write huge part of the code, but also to commit and push to Github.    
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes as part of the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
