@@ -1,6 +1,8 @@
 <h1 align="center">Kefir Website</h1>
 
-[View the live project here.](Kefir website)
+[View the live project here.](https://andna5980.github.io/kefir-repo/index.html)
+
+![mockup]
 
 This is Kefir Website. This website has been designed to be responsibe and accesible from different devices in order to make the navigation user experience easy and enjoyable.
 
