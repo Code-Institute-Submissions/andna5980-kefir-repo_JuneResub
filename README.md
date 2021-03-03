@@ -71,6 +71,8 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes as part of the design process.
+1. [Tinypng:](https://tinypng.com/)
+    - Tinypng was used to compress all the images used in the website.
 
 ## Testing
 
@@ -124,3 +126,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Kefir website was also viewed on different devices such as Desktop, Laptop, Android, iPhone 8 & iPhone11 Pro.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Family and friends were asked to test and review the website in order to spot any issues or bugs. 
+
+### Known Bugs
+
+-   On mobile devices when collapse navigation expands, it pushes the Hero Image down leaving only the cover text at the same level of menu items.
+
