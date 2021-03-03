@@ -131,3 +131,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   On mobile devices when collapse navigation expands, it pushes the Hero Image down leaving only the cover text at the same level of menu items.
 
+## Deployment
+
+### GitHub Pages
+
+Kefir Website was deployed to Github Pages using the following steps 
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the right top of github page, click on the the icon / your repositories.  
+3. Select the name of the repository (kefir-repo).
+4. Once 
+5. 
+6. (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+7. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+8. Under "Source", click the dropdown called "None" and select "Master Branch".
+9. The page will automatically refresh.
+10. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+
