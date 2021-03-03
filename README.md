@@ -116,5 +116,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     10. As a frequent user I want to be constantly updated about new recipes or products derivatives.
 
         1. Users will be able to be update with new recipes, benefits and new kefir products when they join the kefir community.
-        
 
+
+### Further Testing
+
+-   Kefir website has been tested on Safari browsers, Google Chrome,Firefox browser, Microsoft Edge
+-   Kefir website was also viewed on different devices such as Desktop, Laptop, Android, iPhone 8 & iPhone11 Pro.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Family and friends were asked to test and review the website in order to spot any issues or bugs. 
