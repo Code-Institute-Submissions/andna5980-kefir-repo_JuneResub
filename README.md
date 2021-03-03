@@ -29,11 +29,11 @@ This is Kefir Website. This website has been designed to be responsibe and acces
         has been done to create a clean, simple and minimalistic experience to the user for an easy interaction with the site and its content.
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/andna5980/kefir-repo/assets/wireframes/Homepage.pdf)
+    -   Home Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/homepage.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/andna5980/kefir-repo/assets/wireframes/Mobile.pdf)
+    -   Mobile Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/Mobile.pdf)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/andna5980/kefir-repo/assets/wireframes/Contactus.pdf)
+    -   Contact Us Page Wireframe - [View](https://github.com/andna5980/kefir-repo/blob/main/assets/wireframes/Contactus.pdf)
 
 ### Languages Used
 
