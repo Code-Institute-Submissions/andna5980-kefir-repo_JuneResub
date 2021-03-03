@@ -18,8 +18,8 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
     4. As a returning visitor, I would like to find easily the contact area, so I can use it in case of questions or doubts.
     5. As a retuning visitor I would like to see new content that can inspire me to create my own recipes 
-    6. As a returning visitor, I would like to find ways to connect with people who will have the same interest. 
-    7. As a frequent user I want to sign up to the newsletter so I can be constantly updated about new recipes or products derivatives. 
+    6. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
+    7. As a frequent user I want to be constantly updated about new recipes or products derivatives. 
 
 -  ### Design
     -   #### Colour Scheme
@@ -101,9 +101,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     4. As a returning visitor, I would like to find easily the contact area, so I can use it in case of questions or doubts.
         
-        1.
+        1. User will easily find the contact area in the navigation bar. 
+        2. Contact page will give users the posibility to be contacted for different reasons like general information, recipes or join the community.
+
     6. As a retuning visitor I would like to see new content that can inspire me to create my own recipes.
+    
+        1. Users will be able to see recipes examples in our recipes area. This area will help the user to awake their creativity.  
+        2. Users will see new recipes content loaded to the recipes page on a regular basis. 
      
-    8. As a returning visitor, I would like to find ways to connect with people who will have the same interest. 
-    9. As a frequent user I want to sign up to the newsletter so I can be constantly updated about new recipes or products derivatives.
+    8. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
+    
+        1. Users will have the option to join the Kefir community using the contact us form located in the contact page. 
+    
+    10. As a frequent user I want to be constantly updated about new recipes or products derivatives.
+
+        1. Users will be able to be update with new recipes, benefits and new kefir products when they join the kefir community.
+        
 
