@@ -17,7 +17,6 @@
 </head>
 
 <body>
-
     <!--------------------Main-Header-------------------------------------->
     <header>
         <nav class="navbar navbar-expand-md navbar-light">
@@ -31,68 +30,52 @@
                     <li class="nav-item">
                         <a class="nav-link" href="index.html">Home </a>
                     </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="recipes.html">Recipes<span class="sr-only">(current)</span></a>
-                    </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="recipes.html">Recipes</a>
                     </li>
-
+                    <li class="nav-item active">
+                        <a class="nav-link" href="contact.html">Contact Us<span class="sr-only">(current)</span></a>
+                    </li>
                 </ul>
             </div>
         </nav>
     </header>
 
-    <!--------------------Kefir-Recipes-pics-------------------------------------->
+    <!--------------------Form-section-------------------------------------->
 
-    <section>
-        <div class="row">
-            <div class="recipes-title col-12">
-                <h1>Our Recipes</h1>
-            </div>
-        </div>
+
+    <section class="form-section">
+
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+            <h2>Learn More About Kefir</h2>
+            <label for="fname">First Name</label>
+            <input type="text" required id="fname" name="first_name" class="text-input">
+            <label for="lname">Last Name</label>
+            <input type="text" required id="lname" name="last_name" class="text-input">
+            <label for="email">Email</label>
+            <input type="email" required id="email" name="email_address" class="text-input">
+
+            <label for="reason">Why do you want to be contacted?</label>
+            <select name="reason" id="reason">
+                <option value="information">General Information</option>
+                <option value="recipes">Kefir Recipes</option>
+                <option value="join">Join The Kefir Community</option>
+                <option value="all" selected="">All the options</option>
+
+                <input type="submit" value="Yes, contact me!" class="button">
+        </form>
+
+
     </section>
 
 
-    <section>
-        <div class=" row">
-            <div class="picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/dairy-products-table.jpg" alt="dairy product table" height="350"
-                    width="300">
-            </div>
-            <div class=" picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg"
-                    alt="rasberry kefir smoothy" height="350" width="300">
-            </div>
-            <div class=" picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/semi-o-WNacS0CXFhk-unsplash.jpg" alt="kefir based deep" height="350"
-                    width="300">
-            </div>
-            <div class=" picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg"
-                    alt="strawberry kefir shake" height="350" width="300">
-            </div>
-            <div class="picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/alex-loup--ZvC04d-xLw-unsplash.jpg" alt="green kefir shake"
-                    height="350" width="300">
-            </div>
-            <div class="picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/andrijana-bozic-T1ZmP1zjJ2k-unsplash.jpg" alt="kefir and cereals"
-                    height="350" width="300">
-            </div>
-            <div class="picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg"
-                    alt="granola with kefir and fruits" height="350" width="300">
-            </div>
-            <div class="picture-box col-6 col-sm-4 col-md-3 col-lg-3">
-                <img src="./assets/images/gallery/pexels-karolina-grabowska-4198018.jpg"
-                    alt="kefir cheese on toast with radish and mint" height=350" width="300">
-            </div>
-        </div>
-    </section>
+
+
+
 
 
 </body>
+
 
 <footer>
     <div class="social-networks">
@@ -104,6 +87,8 @@
         <a href="http://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
     </div>
 </footer>
+
+
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
