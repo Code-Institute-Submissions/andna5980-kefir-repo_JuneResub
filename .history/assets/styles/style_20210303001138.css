@@ -118,13 +118,9 @@ h1, h2, h3 {
     color: #2F4B58;
 }
 
-.benefits-box {
-    padding-top: 20px;
-}
-
 .benefits-box1 {
     background-color: #ECECDE;
-    padding-top: 20px;
+    padding-top: 5px;
 }
 
 /*-----------------------Testimonies----------*/
