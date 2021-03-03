@@ -146,7 +146,7 @@ Kefir Website was deployed to Github Pages using the following steps
 8. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 9. Under "Source", click the dropdown called "None" and select "Master Branch".
 10. The page will automatically refresh.
-11. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
-![repositories](assets/readme/mygithub page.png)
+11. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+![repositories](assets/readme/mygithub-page.png)
 
 
