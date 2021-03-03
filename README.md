@@ -79,3 +79,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20Markup%20Validation%20Service%20results%20.png)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20css%20validator-results.png)
 
+### Testing User Stories from User Experience (UX) Section
+
+-   #### Visitor Goals
+
+    1. As a first-time visitor, I want to rapidly understand the purpose of the website and how I can benefit from the product and service provided.
+    
+        1. User will be welcome with a Kefir image picture with an animation, with an easy navigation bar that will lead to the rest of the pages.
+        2. The main welcome area will show the user the main purpose of the page.
+        3. User will have the option to scroll down to see the rest of the main page or navigate to any of the other pages.     
+    
+    2. As a first-time visitor I want to be able to navigate through the page in a ease and clear way.
+        
+        1. The website has an easy to understand area, the navigation bar clearly state the two other pages purpose. 
+        2. The second page link takes the user to the recipe area also clearly stated.
+        3. Contact page is an area where users will be abe to provide their information in order to join the kefir community.   
+
+    3. As a first-time visitor I want to find on the site all the social media links, so I can check if the site is trustworthy. Also, I would like see the real          testimonials that help me understand the benefits of the product.
+    
+        1. Users will easily find the social media links in the footer area. These links are represented by medium size icons which will help user to identify them         with the social media.   
+
+    4. As a returning visitor, I would like to find easily the contact area, so I can use it in case of questions or doubts.
+        
+        1.
+    6. As a retuning visitor I would like to see new content that can inspire me to create my own recipes.
+     
+    8. As a returning visitor, I would like to find ways to connect with people who will have the same interest. 
+    9. As a frequent user I want to sign up to the newsletter so I can be constantly updated about new recipes or products derivatives.
+
