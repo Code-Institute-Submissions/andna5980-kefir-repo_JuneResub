@@ -154,6 +154,8 @@ h1, h2, h3 {
 
 .recipes-title {
     text-align: center;
+    margin-top: 10px; 
+    margin-bottom: 30px;
 }
 
 .picture-box {
