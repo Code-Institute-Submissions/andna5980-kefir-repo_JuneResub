@@ -2,7 +2,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #2F4B58;
-    max-width: 2000px;
+    max-width: 1950px;
 }
 
 h1, h2, h3 {
@@ -225,7 +225,7 @@ h1, h2, h3 {
 
 footer {
     height: 80px;
-    width: 100%;
+    width: 120%;
     background-color: #2F4B58;
     overflow: hidden;
     margin-top: 20px;
