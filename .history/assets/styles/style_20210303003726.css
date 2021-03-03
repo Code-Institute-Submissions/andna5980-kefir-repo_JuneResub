@@ -156,8 +156,8 @@ h1, h2, h3 {
     justify-content: center;
 }
 
-img {
-    border-radius: 25%;
+.image-border {
+    border-radius: 50%;
 }
 
 /*-----------------------Recipes-Page----------*/

@@ -149,6 +149,7 @@ h1, h2, h3 {
     /* padding-left: 100px;  */
     display: flex;
     justify-content: center;
+    border-radius: 50%;
 }
 
 .testimony-box {
@@ -156,9 +157,7 @@ h1, h2, h3 {
     justify-content: center;
 }
 
-img {
-    border-radius: 25%;
-}
+
 
 /*-----------------------Recipes-Page----------*/
 

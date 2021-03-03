@@ -57,7 +57,7 @@ h1, h2, h3 {
 .hero-image {
     height: 400px;
     /* width: 110%; */
-    width: 140%;
+    width: 130%;
     background: url(../images/milk-kefir-grains-spoon_1024x1024.jpg) no-repeat center;
     animation-name: hero-zoom;
     animation-duration: 4s;
@@ -154,10 +154,6 @@ h1, h2, h3 {
 .testimony-box {
     padding: 50px;
     justify-content: center;
-}
-
-img {
-    border-radius: 25%;
 }
 
 /*-----------------------Recipes-Page----------*/
