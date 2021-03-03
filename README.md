@@ -76,6 +76,6 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20Markup%20Validation%20Service%20results%20.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20css%20validator-results.png)
 
