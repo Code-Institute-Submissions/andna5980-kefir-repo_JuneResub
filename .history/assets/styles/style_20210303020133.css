@@ -29,12 +29,8 @@ h1, h2, h3 {
     margin-top: 10px;
 }
 
-.navbar-light .navbar-brand {
+.navbar-light .navbar-brand .navbar-nav .active>.nav-link{
     color: #2F4B58;
-} 
-
-.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: #2f4b58;
 }
 
 .navbar-nav {
