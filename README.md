@@ -172,9 +172,20 @@ General queries on code.
 Color Palette website that generates a selecion of matching colors.  
 
 
-### Media
+### Images
 
--   All Images were created by the developer.
+* Pictures on the main page
+    *Pictures from [istockphoto](https://www.istockphoto.com/)
+[Hero image](assets/images/milk-kefir-grains-spoon_1024x1024.jpg)
+
+    *Pictures from [Freepik](https://www.www.freepik.com/)
+ [Racool_studio](assets/images/milk-products-diary.jpg)
+
+
+* Pictures from Unsplash:  
+[Mohra](assets/images/gallery/Ger-Penkert-lough-mohra.jpg)  
+
+
 
 ### Acknowledgements
 
