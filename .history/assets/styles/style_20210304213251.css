@@ -43,13 +43,14 @@ h1,h2,h3 {
 }
 
 .navbar-bg{
-    background: white;
+    background: whitesmoke;
 }
 
 
 .menu-items{
     justify-content: flex-end;
 }
+
 
 .navbar-nav li a {
     margin-top: 20px;
@@ -65,7 +66,6 @@ h1,h2,h3 {
     border: 2px solid #2F4B58;
     color: #2F4B58;
 }
-
 
 /*-----------------------Hero-Image ----------*/
 

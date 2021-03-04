@@ -43,13 +43,14 @@ h1,h2,h3 {
 }
 
 .navbar-bg{
-    background: white;
+    background: whitesmoke;
 }
 
 
 .menu-items{
     justify-content: flex-end;
 }
+
 
 .navbar-nav li a {
     margin-top: 20px;
@@ -66,7 +67,6 @@ h1,h2,h3 {
     color: #2F4B58;
 }
 
-
 /*-----------------------Hero-Image ----------*/
 
 .container-hero {
@@ -82,7 +82,7 @@ h1,h2,h3 {
     animation-name: hero-zoom;
     animation-duration: 4s;
     animation-fill-mode: forwards;
-    margin-top: 5%%;
+    margin-top: 15%;
 }
 
 .cover-text h2 {
