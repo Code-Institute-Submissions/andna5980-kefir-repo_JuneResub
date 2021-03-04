@@ -131,13 +131,9 @@ h1,h2,h3 {
 
 /*-----------------------Kefir-Benefits-Area----------*/
 
-.recipes-section{
-    margin-top: 100px;
-}
-
 .benefits-title {
     text-align: center;
-    margin: 40px 0;
+    margin: 100px 0;
 }
 
 .benefits-row {
