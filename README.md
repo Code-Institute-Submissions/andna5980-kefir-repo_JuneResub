@@ -180,15 +180,14 @@ Pictures used in the main, recipes and contact page.
 [Madeleine Steinbach](https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=kefir+grains+&order=relevance&safe_search=1&limit=100&search_page=2&search_type=pagination&acp=&aco=kefir+grains+&get_facets=0&asset_id=181385254)
 
 * Pictures from Freepik:
-[Photo by Racool_studio](https://www.freepik.com/free-photo/milk-products-dairy_10787231.htm#page=5&query=milk+products&position=9)
-[Photo by Racool_studio](https://www.freepik.es/foto-gratis/productos-lacteos-sobre-mesa_9186325.htm)
-[Photo by Racool_studio](https://www.freepik.es/foto-gratis/productos-lacteos-lacteos_10787331.htm#position=3)
+[Photo by Racool_studio1](https://www.freepik.com/free-photo/milk-products-dairy_10787231.htm#page=5&query=milk+products&position=9)
+[Photo by Racool_studio2](https://www.freepik.es/foto-gratis/productos-lacteos-sobre-mesa_9186325.htm)
+[Photo by Racool_studio3](https://www.freepik.es/foto-gratis/productos-lacteos-lacteos_10787331.htm#position=3)
 
 
 * Pictures from Unsplash:  
-[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg).
-[Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg).
-[Michal Mokrzycki](assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg).
+
+
 [Anonymous](assets/images/gallery/semi-o-WNacS0CXFhk-unsplash.jpg).
 [Melissa Walker](assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg).
 [Alex Loup](assets/images/gallery/alex-loup--ZvC04d-xLw-unsplash.jpg).
@@ -201,6 +200,11 @@ Pictures used in the main, recipes and contact page.
 
 * Pictures from Unsplash:
 [Niclas Illg](assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg).
+[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg).
+[Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg).
+[Michal Mokrzycki](assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg).
+
+
 
 
 ### Acknowledgements
