@@ -172,14 +172,14 @@ h1,h2,h3 {
 }
 
 .testimony-image2 {
-    padding-top: 15px;
+    padding-top: 30px;
     /* padding-left: 100px;  */
     display: flex;
     justify-content: center;
 }
 
 .testimony-box {
-    padding: 50px 50px 20px 50px;
+    padding: 50px;
     justify-content: center;
 }
 
