@@ -74,7 +74,6 @@ h1,h2,h3 {
 .container-hero {
     height: 400px;
     overflow: hidden;
-    margin-top: 40px;
 }
 
 .hero-image {
@@ -85,6 +84,7 @@ h1,h2,h3 {
     animation-name: hero-zoom;
     animation-duration: 4s;
     animation-fill-mode: forwards;
+    /* margin-top: 20%; */
 }
 
 .cover-text h2 {
@@ -97,8 +97,8 @@ h1,h2,h3 {
     padding-top: 10px;
     background-color: rgba(0, 0, 0, .5);
     border-radius: 30px;
-    top: 175px;
-    left: 10%;
+    top: 200px;
+    left: 20%;
     position: absolute;
 }
 
