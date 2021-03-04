@@ -37,10 +37,13 @@ h1,h2,h3 {
     color: #2f4b58;
 }
 
-.menu-items{
-    justify-content: flex-end;
-}
+.navbar-nav {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
 
+}
 
 .navbar-nav li a {
     margin-top: 20px;
