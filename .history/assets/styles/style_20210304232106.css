@@ -193,9 +193,9 @@ img {
     text-align: center;
 }
 
-.recipes-images .col-6 {
-    padding-right: 1px ;
-    padding-left: 1px;
+.recipes-images.col-6 {
+    padding-right: 5px ;
+    padding-left: 5px;
 }
 
 .picture-box {
