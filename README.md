@@ -184,14 +184,14 @@ Color Palette website that generates a selecion of matching colors.
 [Photo by Racool studio](https://www.freepik.es/foto-gratis/productos-lacteos-lacteos_10787331.htm#position=3)
 
 
-    * Pictures from Unsplash:  
-[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg)  
-    [Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg)
-    [Michal Mokrzycki](assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg)
-    [Anonymous](assets/images/gallery/semi-o-WNacS0CXFhk-unsplash.jpg)
-    [Melissa Walker](assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg)
-    [Alex Loup](assets/images/gallery/alex-loup--ZvC04d-xLw-unsplash.jpg)
-    [Niclas Illg](assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg)
+   * Pictures from Unsplash:  
+    -[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg)  
+    -[Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg)
+    -[Michal Mokrzycki](assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg)
+    -[Anonymous](assets/images/gallery/semi-o-WNacS0CXFhk-unsplash.jpg)
+    -[Melissa Walker](assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg)
+    -[Alex Loup](assets/images/gallery/alex-loup--ZvC04d-xLw-unsplash.jpg)
+    -[Niclas Illg](assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg)
 
 
     *Pictures from Pexels:
