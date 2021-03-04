@@ -122,7 +122,7 @@ h1,h2,h3 {
 }
 
 .kefir-description {
-    padding: 10px 40px 40px 40px;
+    padding: 20px 40px 40px 40px;
 }
 
 .kefir-description-image {
@@ -138,7 +138,7 @@ h1,h2,h3 {
 
 .benefits-title {
     text-align: center;
-    margin: 20px 0;
+    margin: 40px 0;
 }
 
 .benefits-row {
