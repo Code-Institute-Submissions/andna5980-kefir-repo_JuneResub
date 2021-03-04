@@ -185,8 +185,10 @@ Color Palette website that generates a selecion of matching colors.
 
 
    * Pictures from Unsplash:  
-    -[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg)  
-    -[Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg)
+    -[Matheus Ferrero]
+    (assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg)  
+    -[Damir Bosnjak]
+    (assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg)
     -[Michal Mokrzycki](assets/images/gallery/michal-mokrzycki-cthDdbSwma8-unsplash.jpg)
     -[Anonymous](assets/images/gallery/semi-o-WNacS0CXFhk-unsplash.jpg)
     -[Melissa Walker](assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg)
