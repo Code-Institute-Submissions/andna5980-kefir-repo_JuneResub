@@ -149,4 +149,37 @@ Kefir Website was deployed to Github Pages using the following steps
 11. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 ![repositories](assets/readme/mygithub-page.png)
 
+## Credits
+
+### Code
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+
+
+### Content
+
+[W3schools](https://www.w3schools.com/)  
+For general database on software development.
+
+[Boostrap Course in Spanish](https://www.youtube.com/watch?v=-83eiJ9EaD4&t=2553s)  
+Small course explaining Bootstrap4 in spanish.
+
+[Stackoverflow](https://stackoverflow.com/)  
+General queries on code.
+
+[Colorspace](https://mycolor.space/)
+Color Palette website that generates a selecion of matching colors.  
+
+
+### Media
+
+-   All Images were created by the developer.
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
+
 
