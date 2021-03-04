@@ -183,7 +183,8 @@ Color Palette website that generates a selecion of matching colors.
 
 
     * Pictures from Unsplash:  
-[Mohra](assets/images/gallery/Ger-Penkert-lough-mohra.jpg)  
+[Matheus Ferrero](assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg)  
+[Damir Bosnjak](assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg)
 
 
 
