@@ -194,9 +194,9 @@ Color Palette website that generates a selecion of matching colors.
     [Niclas Illg](assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg).
 
 
-    *Pictures from Pexels:
-[Karolina Grabowska](assets/images/gallery/pexels-karolina-grabowska-4198170.jpg)
-[Karolina Grabowska](assets/images/gallery/pexels-karolina-grabowska-4198018.jpg)
+   * Pictures from Pexels:
+    [Karolina Grabowska1](assets/images/gallery/pexels-karolina-grabowska-4198170.jpg)
+    [Karolina Grabowska2](assets/images/gallery/pexels-karolina-grabowska-4198018.jpg)
 
 
 ### Acknowledgements
