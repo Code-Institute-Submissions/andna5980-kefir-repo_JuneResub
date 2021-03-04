@@ -204,8 +204,14 @@ Pictures used in the main, recipes and contact page.
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   Code Institute Community, Student care and [Slack](code-institute-room.slack.com) group. 
 
--   Tutor support at Code Institute for their support.
+-   The private Student group created by Code institute Students that joined the course Nov20 for all the support.
+
+-   My Mentor Narender Singh for his help and words of encouragement during stressful days.
+
+-   My Wife for her support and companion during my long study nights.
+
+-   Juan Antonio Santana Medina and his help, support and patience when explaining basic stuff. 
 
 
