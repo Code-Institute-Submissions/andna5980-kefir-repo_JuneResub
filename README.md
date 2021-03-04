@@ -175,10 +175,10 @@ Color Palette website that generates a selecion of matching colors.
 ### Images
 
 * Pictures on the main page
-    *Pictures from [stock.adobe](https://stock.adobe.com)
+    *Pictures from Stock Adobe:
 [Madeleine Steinbach](https://stock.adobe.com/uk/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=kefir+grains+&order=relevance&safe_search=1&limit=100&search_page=2&search_type=pagination&acp=&aco=kefir+grains+&get_facets=0&asset_id=181385254)
 
-    *Pictures from [Freepik](https://www.www.freepik.com/)
+    *Pictures from Freepik:
  [Photo by Racool_studio](https://www.freepik.com/free-photo/milk-products-dairy_10787231.htm#page=5&query=milk+products&position=9)
 
 
