@@ -207,7 +207,7 @@ Pictures used in the main, recipes and contact page.
 
 ### Acknowledgements
 
--   Code Institute Community, Student care and [Slack](code-institute-room.slack.com) group. 
+-   Code Institute Community, Student care and [Slack](https://slack.com/intl/en-gb/) group. 
 
 -   The private Student group created by Code institute Students that joined the course Nov20 for all the support.
 
