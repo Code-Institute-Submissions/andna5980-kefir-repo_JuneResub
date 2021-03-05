@@ -202,6 +202,9 @@ Pictures used in the main, recipes and contact page.
 [Melissa Walker](assets/images/gallery/melissa-walker-horn-_LV5xfsg2y4-unsplash.jpg).
 [Alex Loup](assets/images/gallery/alex-loup--ZvC04d-xLw-unsplash.jpg).
 [Niclas Illg](assets/images/gallery/niclas-illg-URTkjdRhQLk-unsplash.jpg).
+[Mor Shani](assets/images/gallery/mor-shani-gZ2CdzkxWRE-unsplash.jpg).
+[Anshu A](assets/images/gallery/anshu-a-fIs9p9eTksw-unsplash.jpg).
+[Suresh Designer](assets/images/gallery/suresh-designer-fX7MK17BQlw-unsplash.jpg).
 
 
 
