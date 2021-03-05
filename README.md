@@ -215,6 +215,6 @@ Pictures used in the main, recipes and contact page.
 
 -   My Wife for her support and companion during my long study nights.
 
--   Juan Antonio Santana Medina and his help, support and patience when explaining basic stuff. 
+-   Juan Antonio Santana Medina for his help, support and patience when explaining basic stuff. 
 
 
