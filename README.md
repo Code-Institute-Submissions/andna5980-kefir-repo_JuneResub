@@ -4,7 +4,7 @@
 
 This is Kefir Website. This website has been designed to be responsibe and accesible from different devices in order to make the navigation user experience easy and enjoyable.
 
-<h2 align="center"><img src="https://github.com/andna5980/kefir-repo/blob/main/assets/readme/Screenshot%202021-03-03%20at%2001.22.22.png"></h2>
+<h2 align="center"><img src="https://github.com/andna5980/kefir-repo/blob/main/assets/readme/kefir-mockup.png"></h2>
 
 ## User Experience (UX)
 
