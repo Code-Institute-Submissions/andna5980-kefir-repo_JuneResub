@@ -139,14 +139,17 @@ Kefir Website was deployed to Github Pages using the following steps
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the right top of github page, click on the the icon / **Your repositories**  
+
 ![repositories](assets/readme/your-repository.png)
 3. Select the name of the **Repository** (kefir-repo).
 4. Once inside the repository needed, go to **Settings**
+
 ![repositories](assets/readme/settings-small.png)
-8. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-9. Under "Source", click the dropdown called "None" and select "Master Branch".
-10. The page will automatically refresh.
-11. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+5. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+6. Under "Source", click the dropdown called "None" and select "Master Branch".
+7. The page will automatically refresh.
+8. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
 ![repositories](assets/readme/mygithub-page.png)
 
 ## Credits
@@ -212,6 +215,6 @@ Pictures used in the main, recipes and contact page.
 
 -   My Wife for her support and companion during my long study nights.
 
--   Juan Antonio Santana Medina and his help, support and patience when explaining basic stuff. 
+-   Juan Antonio Santana Medina for his help, support and patience when explaining basic stuff. 
 
 
