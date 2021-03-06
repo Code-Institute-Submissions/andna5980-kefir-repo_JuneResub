@@ -127,9 +127,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Family and friends were asked to test and review the website in order to spot any issues or bugs. 
 
-### Known Bugs
+# Bugs
+
+### Solve Bugs
 
 -   On mobile devices when collapse navigation expands, it pushes the Hero Image down leaving only the cover text at the same level of menu items.
+
+Fixed
+By doing the nav bar fixed, and adding it to a z-index, the nav bar expands using part of the hero image. 
+
+
+-   Huge gap between the footer and the rest of the content.
+Fixed
+The footer area was outside <Body>, by moving the <footer> inside the <body> that space big was solved.
+    
+
+-   Nav bar Menu items appear on the left side next to the brand name, but the desire place was on the right of the page
+Fixed   
+Create a new class inside collapse called menu-items and gave a css property to be moved to the right end of the nav bar.
+
+
+   
 
 ## Deployment
 
