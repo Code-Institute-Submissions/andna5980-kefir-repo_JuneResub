@@ -17,8 +17,11 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     3. As a first-time visitor I want to find on the site all the social media links, so I can check if the site is trustworthy. Also, I would like see the real testimonials that help me understand the benefits of the product.
 
     4. As a returning visitor, I would like to find easily the contact area, so I can use it in case of questions or doubts.
+    
     5. As a retuning visitor I would like to see new content that can inspire me to create my own recipes 
+    
     6. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
+    
     7. As a frequent user I want to be constantly updated about new recipes or products derivatives. 
 
 -  ### Design
@@ -127,9 +130,33 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Family and friends were asked to test and review the website in order to spot any issues or bugs. 
 
-### Known Bugs
+# Bugs
+
+### Solve Bugs
 
 -   On mobile devices when collapse navigation expands, it pushes the Hero Image down leaving only the cover text at the same level of menu items.
+
+**Fixed**:
+By doing the nav bar fixed, and adding it to a z-index, the nav bar expands using part of the hero image. 
+
+
+-   Huge gap between the footer and the rest of the content but it also has an space on the right hand of the footer.
+
+**Fixed**:
+The footer area was outside <Body>, by moving the <footer>inside the <body> that space big was solved.
+    
+
+-   Nav bar Menu items appear on the left side next to the brand name, but the desire place was on the right of the page
+
+**Fixed**:
+Create a new class inside collapse called menu-items and gave a css property to be moved to the right end of the nav bar.
+
+-   Wanted to make the cover text on the hero image clickable without using a button funtion. 
+
+**Fixed**:
+Made and anchor function within cover-text class, gave the text the same attributes it has before and link it to the contact page.
+
+   
 
 ## Deployment
 
