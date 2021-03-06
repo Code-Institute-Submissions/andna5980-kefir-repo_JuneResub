@@ -17,8 +17,11 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     3. As a first-time visitor I want to find on the site all the social media links, so I can check if the site is trustworthy. Also, I would like see the real testimonials that help me understand the benefits of the product.
 
     4. As a returning visitor, I would like to find easily the contact area, so I can use it in case of questions or doubts.
+    
     5. As a retuning visitor I would like to see new content that can inspire me to create my own recipes 
+    
     6. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
+    
     7. As a frequent user I want to be constantly updated about new recipes or products derivatives. 
 
 -  ### Design
