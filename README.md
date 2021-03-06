@@ -137,10 +137,10 @@ Fixed:
 By doing the nav bar fixed, and adding it to a z-index, the nav bar expands using part of the hero image. 
 
 
--   Huge gap between the footer and the rest of the content.
+-   Huge gap between the footer and the rest of the content but it also has an space on the right hand of the footer.
 
 Fixed:
-The footer area was outside <Body>, by moving the <footer> inside the <body> that space big was solved.
+The footer area was outside <Body>, by moving the <footer>inside the <body> that space big was solved.
     
 
 -   Nav bar Menu items appear on the left side next to the brand name, but the desire place was on the right of the page
@@ -148,6 +148,10 @@ The footer area was outside <Body>, by moving the <footer> inside the <body> tha
 Fixed:
 Create a new class inside collapse called menu-items and gave a css property to be moved to the right end of the nav bar.
 
+-   Wanted to make the cover text on the hero image clickable without using a button funtion. 
+
+Fixed:
+Made and anchor function within cover-text class, gave the text the same attributes it has before and link it to the contact page.
 
    
 
