@@ -145,7 +145,7 @@ The footer area was outside <Body>, by moving the <footer> inside the <body> tha
 
 -   Nav bar Menu items appear on the left side next to the brand name, but the desire place was on the right of the page
 
-Fixed:   
+Fixed:
 Create a new class inside collapse called menu-items and gave a css property to be moved to the right end of the nav bar.
 
 
