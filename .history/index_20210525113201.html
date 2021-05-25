@@ -17,15 +17,15 @@
 </head>
 
 <body>
-  <!--------------------Main-Header-------------------------------------->
+  <!-- Main Header -->
   <header>
-    <nav class="navbar navbar-expand-md navbar-light">
+    <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-bg">
       <a class="navbar-brand" href="index.html">Kefir</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="collapse navbar-collapse menu-items" id="navbarNav" style="opacity: 0.8;">
         <ul class="navbar-nav">
           <li class="nav-item active">
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
@@ -36,24 +36,22 @@
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contact Us</a>
           </li>
-
         </ul>
       </div>
     </nav>
   </header>
 
-  <!--------------------Hero-IMAGE--------------------- ----------------->
+  <!-- Hero Image -->
 
   <div class=" container-hero">
     <div class="hero-image col-12"></div>
     <div class="cover-text">
-      <h2>Meet the power of Nature</h2>
+      <a>Meet the power of Nature</a>
     </div>
-
   </div>
 
 
-  <!--------------------What-is-kefir-------------------------------------->
+  <!-- What is kefir -->
 
   <section>
     <div class="row">
@@ -76,7 +74,7 @@
 
       <div class="col-12 col-sm-6 ">
         <div class="kefir-description-image">
-          <img src="./assets/images/milk-products-dairy.jpg" alt="diferent-kefir-derivates" height="300" width="300">
+          <img src="./assets/images/milk-products-dairy.jpg" alt="diferent kefir derivates" height="300" width="300">
         </div>
       </div>
     </div>
@@ -84,7 +82,7 @@
   </section>
 
 
-  <!--------------------Kefir-benefits-------------------------------------->
+  <!-- Kefir benefits -->
 
   <section class="benefits-title">
     <div class="row ">
@@ -106,7 +104,6 @@
           acid bacteria have already pre-digested the lactose. People who have lactose
           intolerance can often drink kefir without problems.
         </p>
-
       </div>
       <div class=" benefits-box1 col-12 col-sm-6 col-md-3">
         <h3>Improve bone / digestive problems </h3>
@@ -122,10 +119,10 @@
     </div>
   </section>
 
-  <!--------------------Testimonies-------------------------------------->
+  <!-- Testimonies -->
 
-  <section>
-    <div class="testimonies-title  row">
+  <section class="testimonies-title">
+    <div class="row">
       <div class=" col-12">
         <h1>Testimonies</h1>
       </div>
@@ -138,20 +135,22 @@
           UTIs have vanished.</p>
         <p>I usually tell everybody how good this is and how it can help to reverse so many diseases. I share my
           milk grains with my family and friends.</p>
-        <p>Jenny Cobo, Colombia</p>
+        <figcaption class="blockquote-footer">
+          Jenny Cobo, Colombia
+        </figcaption>
       </div>
 
       <div class="col-12 col-sm-6">
         <div class="testimony-image1">
-          <img src="./assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg" alt="old-woman" height="225"
+          <img src="./assets/images/damir-bosnjak-VQ2L7t5qt_8-unsplash-min.jpg" alt="old womanin a chair" height="225"
             width="300">
         </div>
       </div>
     </div>
 
     <div class=" row flex-column-reverse flex-sm-row ">
-      <div class=" testimony-image2 col-12 col-sm-6 col.order-1.order-xs-2">
-        <img src="./assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg" alt="young-woman" height="300">
+      <div class="testimony-image2 col-12 col-sm-6 col.order-1.order-xs-2">
+        <img src="./assets/images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg" alt="young woman face" height="300">
       </div>
 
       <div class="testimony-box col-12 col-sm-6 ">
@@ -160,32 +159,37 @@
           nerves, reversed insomnia pattern and taken away carbohydrate cravings.</p>
         <p> Been drinking it for a month now, noticed the benefits immediately. And... my morning kefir smoothies
           keep appetite stable all day... such a blessing, this healing drink! Health and blessings.</p>
-        <p>Clara Angelyn, USA</p>
+        <figcaption class="blockquote-footer">
+          Clara Angelyn, USA
+        </figcaption>
       </div>
 
     </div>
   </section>
 
+
+  <footer>
+    <div class="social-networks">
+      <span>Find us on:</span>
+      <a href="http://facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
+
+      <a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+
+      <a href="http://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+
 </body>
-
-<footer>
-  <div class=" col-12 social-networks">
-    <span>Find us on:</span>
-    <a href="http://facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
-
-    <a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
-
-    <a href="http://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
-  </div>
-</footer>
-
-
-
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-  integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-  integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 </html>
