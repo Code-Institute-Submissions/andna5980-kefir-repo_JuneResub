@@ -19,19 +19,19 @@
 <body>
     <!--------------------Main-Header-------------------------------------->
     <header>
-        <nav class="navbar navbar-expand-md navbar-light">
+        <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-bg">
             <a class="navbar-brand" href="index.html">Kefir</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="collapse navbar-collapse menu-items" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a class="nav-link" href="index.html">Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="recipes.html">Recipes</a>
+                        <a class="nav-link" href="recipes.html">Gallery</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="contact.html">Contact Us<span class="sr-only">(current)</span></a>
@@ -44,53 +44,43 @@
     <!--------------------Form-section-------------------------------------->
 
 
-    <section class="test-red form-section row">
-        
-            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
-                <h2>Learn More About Kefir</h2>
-                <label for="fname">First Name</label>
-                <input type="text" required id="fname" name="first_name" class="text-input">
-                <label for="lname">Last Name</label>
-                <input type="text" required id="lname" name="last_name" class="text-input">
-                <label for="email">Email</label>
-                <input type="email" required id="email" name="email_address" class="text-input">
+    <section class="form-section">
 
-                <label for="reason">Why do you want to be contacted?</label>
-                <select name="reason" id="reason">
-                    <option value="information">General Information</option>
-                    <option value="recipes">Kefir Recipes</option>
-                    <option value="join">Join The Kefir Community</option>
-                    <option value="all" selected="">All the options</option>
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+            <h2>Learn More About Kefir</h2>
+            <label for="fname">First Name</label>
+            <input type="text" required id="fname" name="first_name" class="text-input">
+            <label for="lname">Last Name</label>
+            <input type="text" required id="lname" name="last_name" class="text-input">
+            <label for="email">Email</label>
+            <input type="email" required id="email" name="email_address" class="text-input">
 
-                    <input type="submit" value="Yes, contact me!" class="button">
-            </form>
-        
+            <label for="reason">Why do you want to be contacted?</label>
+            <select name="reason" id="reason">
+                <option value="information">General Information</option>
+                <option value="recipes">Kefir Recipes</option>
+                <option value="join">Join The Kefir Community</option>
+                <option value="all" selected="">All the options</option>
+
+                <input type="submit" value="Yes, contact me!" class="button">
+        </form>
+
 
     </section>
-
-
-
-
-
-
 
 </body>
 
 
 <footer>
-    <div class=" row">
-        <div class=" col-12 social-networks">
-            <span>Find us on:</span>
-            <a href="http://facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
+    <div class="social-networks">
+        <span>Find us on:</span>
+        <a href="http://facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
 
-            <a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
 
-            <a href="http://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
-        </div>
+        <a href="http://twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
     </div>
 </footer>
-
-
 
 
 
