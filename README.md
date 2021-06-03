@@ -81,8 +81,8 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/nu/) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20Markup%20Validation%20Service%20results%20.png)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/w3c%20css%20validator-results.png)
+-   [W3C Markup Validator](https://validator.w3.org/nu/) - [Results Main Page](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/Html%20check%20Main%20Page.png) - [Results Gallery Page](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/Html%20check%20Gallery%20Page.png) - [Results Contact Page](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/Html%20check%20Contact%20Page.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results Main Page](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/CSS%20check%20Main%20Page.png) - [Results Gallery Page](https://github.com/andna5980/kefir-repo/blob/main/assets/readme/CSS%20check%20Gallery%20Page%20.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -97,7 +97,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a first-time visitor I want to be able to navigate through the page in a ease and clear way.
         
         1. The website has an easy to understand area, the navigation bar clearly state the two other pages purpose. 
-        2. The second page link takes the user to the recipe area also clearly stated.
+        2. The second page link takes the user to the gallery area also clearly stated.
         3. Contact page is an area where users will be abe to provide their information in order to join the kefir community.   
 
     3. As a first-time visitor I want to find on the site all the social media links, so I can check if the site is trustworthy. Also, I would like see the real          testimonials that help me understand the benefits of the product.
@@ -111,8 +111,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     6. As a retuning visitor I would like to see new content that can inspire me to create my own recipes.
     
-        1. Users will be able to see recipes examples in our recipes area. This area will help the user to awake their creativity.  
-        2. Users will see new recipes content loaded to the recipes page on a regular basis. 
+        1. Users will be able to see recipes examples in our gallery area. This area will help the user to awake their creativity.  
+        2. Users will see new recipes content loaded to the gallery page on a regular basis. 
      
     8. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
     
