@@ -97,7 +97,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a first-time visitor I want to be able to navigate through the page in a ease and clear way.
         
         1. The website has an easy to understand area, the navigation bar clearly state the two other pages purpose. 
-        2. The second page link takes the user to the recipe area also clearly stated.
+        2. The second page link takes the user to the gallery area also clearly stated.
         3. Contact page is an area where users will be abe to provide their information in order to join the kefir community.   
 
     3. As a first-time visitor I want to find on the site all the social media links, so I can check if the site is trustworthy. Also, I would like see the real          testimonials that help me understand the benefits of the product.
@@ -111,8 +111,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     6. As a retuning visitor I would like to see new content that can inspire me to create my own recipes.
     
-        1. Users will be able to see recipes examples in our recipes area. This area will help the user to awake their creativity.  
-        2. Users will see new recipes content loaded to the recipes page on a regular basis. 
+        1. Users will be able to see recipes examples in our gallery area. This area will help the user to awake their creativity.  
+        2. Users will see new recipes content loaded to the gallery page on a regular basis. 
      
     8. As a returning visitor, I would like to find ways to connect with people who will have the same Kefir interest. 
     
